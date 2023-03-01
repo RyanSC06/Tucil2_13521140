@@ -16,7 +16,9 @@
 
 <p align="justify">Solusi dari permainan tersebut dapat ditemukan dengan program komputer dengan dua pendekatan, yaitu algoritme <i>brute force</i> dan <i>divide and conquer</i>. Dari segi waktu, jumlah perhitungan, dan efektivitas komputasi, algoritme <i>divide and conquer</i> jauh lebih unggul.</p>
 
-<p align="justify">Dengan bantuan beberapa fungsi pendukung, serta library tambahan, program <i>closest-pair problem solver</i> berhasil dibuat dalam bahasa pemrograman Python. Silakan menikmati program lengkap yang telah saya buat. Terima kasih sudah berkunjung.</p>
+<p align="justify">Dengan bantuan beberapa fungsi pendukung, serta library tambahan, program <i>closest-pair problem solver</i> berhasil dibuat dalam bahasa pemrograman Python. Terdapat satu buah fail yang berisi fungsi (<b>FUNCTIONS.py</b>) dan dua buah fail yang berisi program utama. <b>CLOSEST_PAIR.py</b> berisi program untuk menyelesaikan permasalahan dengan kedua algoritme, lalu dibandingkan secara langsung. <b>CLOSEST_PAIR_GENERALIZED.py</b> berisi program yang sama, namun Anda bisa memasukkan sendiri dimensi titik yang diinginkan</p>
+
+<p align="justify">Silakan menikmati program lengkap yang telah saya buat. Terima kasih sudah berkunjung.</p>
 
 
 ## Penggunaan
