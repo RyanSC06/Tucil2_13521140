@@ -12,4 +12,11 @@
 <p align="center">
   <img width="1000" src="https://i.imgur.com/bm0vid8.png" alt="Ilustrasi Permasalahan Closest-Pair">
 </p>
-<p align="center">Sumber: https://codereview.stackexchange.com/questions/141976/divide-and-conquer-approach-for-finding-the-closest-pair-of-points</p>
+<p align="center">Sumber gambar: https://codereview.stackexchange.com/questions/141976/divide-and-conquer-approach-for-finding-the-closest-pair-of-points</p>
+
+<p align="justify">Solusi dari permainan tersebut dapat ditemukan dengan program komputer dengan dua pendekatan, yaitu algoritme brute force dan divide and conquer. Dari segi waktu, jumlah perhitungan, dan efektivitas komputasi, algoritme divide and conquer jauh lebih unggul.</p>
+
+<p align="justify">Dengan bantuan beberapa fungsi pendukung, serta library tambahan, program closest-pair problem solver berhasil dibuat dalam bahasa pemrograman Python. Silakan menikmati program lengkap yang telah saya buat. Terima kasih sudah berkunjung.</p>
+
+
+## Penggunaan
