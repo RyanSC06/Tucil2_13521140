@@ -9,7 +9,7 @@
 
 ## Deskripsi
 <p align="justify">Permasalahan mencari pasangan titik yang jaraknya terdekat (closest-pair problem), adalah salah satu persoalan terdahulu pada geometri komputasional. Masalahnya adalah: diberikan himpunan Q yang berisi n ≥ 2 buah titik berdimensi tertentu, untuk kemudian dicari pasangan mana yang memiliki jarak Euclidean terdekat.</p>
-
 <p align="center">
   <img width="1000" src="https://i.imgur.com/bm0vid8.png" alt="Ilustrasi Permasalahan Closest-Pair">
 </p>
+<p align="center">Sumber: https://codereview.stackexchange.com/questions/141976/divide-and-conquer-approach-for-finding-the-closest-pair-of-points</p>
