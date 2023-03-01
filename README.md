@@ -23,3 +23,6 @@
 
 ## Penggunaan
 <p align="justify">Tidak ada instalasi tambahan yang diperlukan untuk menjalankan program ini, melainkan cukup dengan komputer yang bisa mengeksekusi bahasa pemrograman Python.</p>
+<p align="justify">1. Memasukkan input: pada saat program utama dijalankan, akan muncul beberapa pertanyaan pada layar. Apabila pertanyaannya adalah dimensi atau jumlah titik, silakan masukkan sebuah angka. Dimensi ≥ 1, sedangkan jumlah titik ≥ 2. Akhiri dengan menekan tombol <b>ENTER</b>. Ada validasi yang dilakukan oleh program. </p>
+<p align="justify">2. Mencetak titik: Anda cukup memasukkan '1' pada pertanyaan "Apakah Anda ingin mencetak titik-titik Anda?", maka semua titik yang dibangkitkan secara acak akan ditampilkan. Catatan: masukkan '0' untuk tidak. Akhiri dengan menekan tombol <b>ENTER</b>. Ada validasi yang dilakukan oleh program.</p>
+<p align="justify">3. Menampilkan gambar: Pada fail <b>CLOSEST_PAIR.py</b>, yaitu saat solusi untuk titik tiga dimensi sudah tampil, ada sebuah fitur tambahan yang memungkinkan Anda untuk melihat gambar titik pada koordinat Cartesius tiga sumbu. Anda cukup memasukkan '1' pada pertanyaan "Apakah Anda ingin menampilkan gambar 3D?", maka semua titik yang dibangkitkan secara acak akan ditampilkan. Catatan: masukkan '0' untuk tidak. Akhiri dengan menekan tombol <b>ENTER</b>. Ada validasi yang dilakukan oleh program.</p>
